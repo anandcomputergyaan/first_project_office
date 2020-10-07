@@ -2,7 +2,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 2.4.0
     </div>
-    <strong>Copyright &copy; 2019-2020 <a href="#">THOS</a>.</strong> All rights
+    <strong>Copyright &copy; 2020-2021 <a href="#">Company Name</a>.</strong> All rights
     reserved.
   </footer>
 <!-- jQuery 3 -->
